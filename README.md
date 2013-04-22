@@ -1,11 +1,19 @@
-# Emitter
+# Tower Emitter
 
-  Event emitter component.
+Event emitter component (started from component/emitter).
 
 ## Installation
 
+node.js:
+
+```bash
+$ npm install tower-emitter
 ```
-$ component install component/emitter
+
+browser:
+
+```bash
+$ component install tower/emitter
 ```
 
 ## API
@@ -67,3 +75,11 @@ Emitter(User.prototype);
 ### Emitter#hasListeners(event)
 
   Check if this emitter has `event` handlers.
+
+## Notes
+
+- https://github.com/component/clone/blob/master/index.js
+
+## License
+
+MIT
