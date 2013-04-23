@@ -1,5 +1,5 @@
 {
-  "name": "emitter",
+  "name": "tower-emitter",
   "repo": "tower/emitter",
   "description": "Event emitter",
   "keywords": ["emitter", "events"],
