@@ -2,11 +2,19 @@
   "name": "tower-emitter",
   "repo": "tower/emitter",
   "description": "Event emitter",
+  "version": "0.1.0",
   "keywords": ["emitter", "events"],
   "dependencies": {
     "component/indexof": "*"
   },
-  "version": "0.1.0",
+  "local": [],
+  "paths": [
+    "../"
+  ],
+  "development": {
+    "timoxley/assert": "*",
+    "visionmedia/mocha": "*"
+  },
   "scripts": ["index.js"],
   "main": "index.js",
   "license": "MIT"

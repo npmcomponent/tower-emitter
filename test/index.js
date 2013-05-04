@@ -1,4 +1,6 @@
-var Emitter = require('..')
+var Emitter = 'undefined' == typeof window
+    ? require('..')
+    : require('tower-emitter')
   , assert = require('assert');
 
 function Custom() {
