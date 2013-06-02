@@ -2,7 +2,7 @@
   "name": "tower-emitter",
   "repo": "tower/emitter",
   "description": "Event emitter",
-  "version": "0.5.0pre",
+  "version": "0.1.0pre",
   "keywords": ["emitter", "events"],
   "dependencies": {
     "component/indexof": "*"

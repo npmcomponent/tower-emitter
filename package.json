@@ -1,7 +1,7 @@
 {
   "name": "tower-emitter",
   "description": "Event emitter",
-  "version": "0.5.0pre",
+  "version": "0.1.0pre",
   "dependencies": {
     "indexof": "*"
   }
