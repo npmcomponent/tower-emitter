@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var index = require('indexof')
-  , slice = [].slice;
+var index = require('indexof');
+var slice = [].slice;
 
 /**
  * Expose `Emitter`.

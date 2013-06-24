@@ -7,10 +7,6 @@
   "dependencies": {
     "component/indexof": "*"
   },
-  "local": [],
-  "paths": [
-    "../"
-  ],
   "development": {
     "timoxley/assert": "*",
     "visionmedia/mocha": "*"

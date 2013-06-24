@@ -1,8 +1,12 @@
 {
   "name": "tower-emitter",
   "description": "Event emitter",
-  "version": "0.1.0pre",
+  "version": "0.1.0",
   "dependencies": {
     "indexof": "*"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/tower/emitter.git"
   }
 }
