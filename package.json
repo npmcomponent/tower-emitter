@@ -2,11 +2,13 @@
   "name": "tower-emitter",
   "description": "Event emitter",
   "version": "0.1.2",
+  "keywords": [
+    "emitter",
+    "events"
+  ],
+  "main": "index.js",
   "dependencies": {
-    "indexof": "*"
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git"
   },
-  "repository": {
-    "type" : "git",
-    "url" : "http://github.com/tower/emitter.git"
-  }
+  "license": "MIT"
 }
